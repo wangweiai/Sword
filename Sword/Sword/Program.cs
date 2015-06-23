@@ -10,6 +10,7 @@ namespace Sword
     {
         static void Main(string[] args)
         {
+            Console.ReadLine();
         }
     }
 }
